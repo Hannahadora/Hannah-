@@ -22,7 +22,7 @@ Address: Port harcourt , Rivers state, Nigeria <br>
 - Css
 - Tailwind css
 - Javascript
-- Typesc
+- Typescript
 - Vue
 - Nuxt
 - Git
